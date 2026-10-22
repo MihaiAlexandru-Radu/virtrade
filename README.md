@@ -84,6 +84,6 @@ web-1  |     ✓ negative : /register - should reject missing fields
 ## Deployed Application
 
 > [!NOTE]
-> If opening the website via the link, the API might be unresponsive for a certain amount of time due to the API essentially having restart after a cooldown. The API and website overall generally works much more effectively when running locally.
+> If opening the website via the link, the API might be unresponsive for a certain amount of time due to the API essentially having restart after a cooldown. The API and website overall generally works much more effectively when running locally, and is the recommended way to run the website.
 
 Online Website: [Application Link](https://virtrade-web.onrender.com)
